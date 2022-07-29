@@ -105,5 +105,6 @@ const solveNQueens = (state) => {
 
 // Running the Solver for: N Queens
 console.log(solveNQueens(generateState(14)));
+
 // or pass in a state to start from.
  console.log(solveNQueens([1,2,3,4]));
